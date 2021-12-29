@@ -4,6 +4,8 @@ GeoRod is a small consulting firm lead by Peter Rodriguez.  GeoRod specializes i
 
 Let GeoRod help you harness the power of where.  Contact us (p.rodriguez97 at gmail.com) for a free consultation.
 
+Note: the domain georod.com redirects here.
+
 ### About Peter Rodriguez
 
-Peter is fluent in Spanish and English, and is currently pursuing a PhD in spatial ecology at the University of Toronto.  Please contact me at p.rodriguez97 at gmail.com. 
+I am an ecologist that works with spatial data & geographic information systems (GIS). I am fluent in Spanish and English, and currently pursuing a PhD in spatial ecology at the University of Toronto. Please contact me at p.rodriguez97 at gmail.com or via Twitter @georod97
