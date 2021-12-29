@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## GeoRod - Harness the power of where!
 
-You can use the [editor on GitHub](https://github.com/georod/georod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+GeoRod is a small consulting firm lead by Peter Rodriguez.  GeoRod specializes in carrying out geo-spatial analysis and leveraging geo-spatial technologies.  Our services range from simply registrating your business in global geographical databases such as OpenStreetMaps (OSM) to launching your company's location intelligence platform and everything in between. Our team specializes in applying open-source technologies to solve small business and conservation biology challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let GeoRod help you harness the power of where.  Contact us (p.rodriguez97 at gmail.com) for a free consultation.
 
-### Markdown
+### About Peter Rodriguez
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georod/georod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Peter is fluent in Spanish and English, and is currently pursuing a PhD in spatial ecology at the University of Toronto.  Please contact me at p.rodriguez97 at gmail.com. 
