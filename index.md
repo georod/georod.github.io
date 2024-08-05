@@ -1,4 +1,4 @@
-## Harness the power of open geospatial tech
+## Geospatial tech for helping nature
 
 GeoRod is a small consulting company (lead by Peter Rodriguez) that leverages open-source software and open geospatial data to monitor nature-based climate solutions such as forest carbon projects. Over the years our team has been involved in several conservation projects and green business ventures.
 
@@ -8,13 +8,13 @@ GeoRod is a small consulting company (lead by Peter Rodriguez) that leverages op
 
 I am an ecologist & geospatial data scientist. Currently, I am pursuing a PhD in ecology at the University of Toronto (Fortin Lab). I am fluent in Spanish and English. Reach out by email at p.rodriguez97 at gmail.com or via X @georod97.
 
-![PeterR] (https://github.com/georod/georod.github.io/tree/main/assets/img/pic_resnet_peterr_150px.jpg)
+![PeterR](https://github.com/georod/georod.github.io/tree/main/assets/img/pic_resnet_peterr_150px.jpg)
 
-**GitHub**: https://github.com/georod
+[GitHub](https://github.com/georod)
 
-**LinkedIn**: https://www.linkedin.com/in/psrod/
+[LinkedIn](https://www.linkedin.com/in/psrod/)
 
-**Google Scholar**: https://scholar.google.ca/citations?user=t845GaMAAAAJ&hl=en
+[Google Scholar](https://scholar.google.ca/citations?user=t845GaMAAAAJ&hl=en)
 
-**ORCID**: https://orcid.org/0000-0003-2272-9962
+[ORCID](https://orcid.org/0000-0003-2272-9962)
 
