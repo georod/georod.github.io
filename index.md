@@ -11,6 +11,10 @@ I am an ecologist & geospatial data scientist. Currently, I am pursuing a PhD in
 ![PeterR] (https://github.com/georod/georod.github.io/tree/main/assets/img/pic_resnet_peterr_150px.jpg)
 
 **GitHub**: https://github.com/georod
+
 **LinkedIn**: https://www.linkedin.com/in/psrod/
+
 **Google Scholar**: https://scholar.google.ca/citations?user=t845GaMAAAAJ&hl=en
+
 **ORCID**: https://orcid.org/0000-0003-2272-9962
+
