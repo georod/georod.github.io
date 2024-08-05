@@ -1,11 +1,16 @@
-## GeoRod - Harness the power of where!
+## Harness the power of open geospatial tech
 
-GeoRod is a small consulting firm lead by Peter Rodriguez.  GeoRod specializes in carrying out geo-spatial analysis and leveraging geo-spatial technologies.  Our services range from simply registrating your business in global geographical databases such as OpenStreetMaps (OSM) to launching your company's location intelligence platform and everything in between. Our team specializes in applying open-source technologies to solve small business and conservation biology challenges.
+GeoRod is a small consulting company (lead by Peter Rodriguez) that leverages open-source software and open geospatial data to monitor nature-based climate solutions such as forest carbon projects. Over the years our team has been involved in several conservation projects and green business ventures.
 
-Let GeoRod help you harness the power of where.  Contact us (p.rodriguez97 at gmail.com) for a free consultation.
-
-Note: the domain georod.com redirects here.
+(Note: the domain georod.com redirects here.)
 
 ### About Peter Rodriguez
 
-I am an ecologist that works with spatial data & geographic information systems (GIS). I am fluent in Spanish and English, and currently pursuing a PhD in spatial ecology at the University of Toronto. Please contact me at p.rodriguez97 at gmail.com or via Twitter @georod97
+I am an ecologist & geospatial data scientist. Currently, I am pursuing a PhD in ecology at the University of Toronto (Fortin Lab). I am fluent in Spanish and English. Reach out by email at p.rodriguez97 at gmail.com or via X @georod97.
+
+![PeterR] (https://github.com/georod/georod.github.io/tree/main/assets/img/pic_resnet_peterr_150px.jpg)
+
+**GitHub**: https://github.com/georod
+**LinkedIn**: https://www.linkedin.com/in/psrod/
+**Google Scholar**: https://scholar.google.ca/citations?user=t845GaMAAAAJ&hl=en
+**ORCID**: https://orcid.org/0000-0003-2272-9962
