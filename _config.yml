@@ -4,3 +4,5 @@ plugins:
 #theme: jekyll-theme-minimal
 title: GeoRod
 description: Harness the power of open geospatial tech
+logo: /assets/img/georod_logo_250.png
+show_downloads: false
