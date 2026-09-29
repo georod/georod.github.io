@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #theme: jekyll-theme-minimal
 title: GeoRod
-description: Harnessing geospatial tech to help nature
+description: Harnessing geospatial tech to monitor nature
 logo: /assets/img/georod_logo2_108.png
 show_downloads: false
